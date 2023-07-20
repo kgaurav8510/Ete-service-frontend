@@ -5,17 +5,13 @@
 - Node.js (v18.x), also npm 
 
 ## Local development
-### 1. Go to frontend directory
-```sh
-cd frontend
-```
 
-### 2. Install packages
+### 1. Install packages
 ```sh
 npm i
 ```
 
-### 3. Start server
+### 2. Start server
 ```sh
 npm run dev
 ```
